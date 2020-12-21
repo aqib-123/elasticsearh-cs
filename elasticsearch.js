@@ -25,7 +25,7 @@ welcome({
     index: ['cs-containers-2020.12.17', 'cs-containers-2020.12.16'],
     body: {
       from: 0,
-      size: 1000,
+      size: 9000,
       query: {
         bool: {
           filter: [
